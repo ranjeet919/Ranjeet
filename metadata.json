@@ -1,0 +1,6 @@
+{
+  "name": "Civic Intelligence",
+  "description": "Smart city civic intelligence platform utilizing AI for complaint reporting, department routing, duplicate detection, and live civic health scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
